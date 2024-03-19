@@ -1,5 +1,5 @@
-a = int(input("Enter a number here"))
-b = int(input("Enter a number here as well"))
+a = int(input("Enter a number here: "))
+b = int(input("Enter a number here as well: "))
 
 c = a + b
 
