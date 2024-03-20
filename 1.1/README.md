@@ -1,4 +1,4 @@
-For Task 1.1 I:
+### For Task 1.1, I:
 
 1. Already had python installed on my computer - I did so while going through the exercise. So for step 1 I verified my Python version.
 2. Created a new virtual environment called "cf-python-base".
