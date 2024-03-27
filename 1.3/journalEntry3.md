@@ -15,20 +15,14 @@
 - If the user’s input is one of those 3 destinations, the following statement should be printed: “Enjoy your stay in **\_\_**!”
 - If the user’s input is something other than the defined destinations, the following statement should be printed: “Oops, that destination is not currently available.”
 
-> travel = input("Where would you like to travel? ")
-> <br>
-> if travel == "Tokyo":
-> <br>
-> print("Enjoy your stay in Tokyo!")
-> <br>
-> elif travel == "Oslo":
-> <br>
-> print("Enjoy your stay in Oslo!")
-> <br>
-> elif travel == "Monterrey":
-> <br>
-> print("Enjoy your stay in Monterrey!")
-> <br>
-> else:
-> <br>
-> print("Oops, that destination is not currently available.")
+```
+travel = input("Where would you like to travel? ")
+if travel == "Tokyo":
+    print("Enjoy your stay in Tokyo!")
+elif travel == "Oslo":
+    print("Enjoy your stay in Oslo!")
+elif travel == "Monterrey":
+    print("Enjoy your stay in Monterrey!")
+else:
+    print("Oops, that destination is not currently available.")
+```
