@@ -18,11 +18,17 @@
 > travel = input("Where would you like to travel? ")
 > <br>
 > if travel == "Tokyo":
+> <br>
 > print("Enjoy your stay in Tokyo!")
+> <br>
 > elif travel == "Oslo":
+> <br>
 > print("Enjoy your stay in Oslo!")
+> <br>
 > elif travel == "Monterrey":
+> <br>
 > print("Enjoy your stay in Monterrey!")
->
+> <br>
 > else:
+> <br>
 > print("Oops, that destination is not currently available.")
