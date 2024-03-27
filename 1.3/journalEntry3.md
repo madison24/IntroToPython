@@ -16,7 +16,7 @@
 - If the user’s input is something other than the defined destinations, the following statement should be printed: “Oops, that destination is not currently available.”
 
 > travel = input("Where would you like to travel? ")
-
+> <br>
 > if travel == "Tokyo":
 > print("Enjoy your stay in Tokyo!")
 > elif travel == "Oslo":
