@@ -27,13 +27,19 @@ else:
     print("Oops, that destination is not currently available.")
 ```
 
+<br>
+<br>
 2. Imagine you’re at a job interview for a Python developer role. The interviewer says “Explain logical operators in Python”. Draft how you would respond.
 
 - Logical operators are used to check multiple condtions at the same time, for example if you wanted to check if the length and width of a rug would fit your space. The logical operators check if each condition is true or false.
+  <br>
+  <br>
 
 3. What are functions in Python? When and why are they useful?
 
 - Functions are sets of instructions that process code to achieve certain things. They are useful for saving time because you can create your own function and reuse it throughout your code when necessary.
+  <br>
+  <br>
 
 4. In the section for Exercise 1 in this Learning Journal, you were asked in question 3 to set some goals for yourself while you complete this course. In preparation for your next mentor call, make some notes on how you’ve progressed towards your goals so far.
 
